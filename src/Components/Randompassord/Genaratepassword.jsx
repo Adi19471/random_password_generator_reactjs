@@ -52,7 +52,7 @@ const App = () => {
 
   return (
     <div className="app-container">
-    <h1 className='random'>Random Password Genrator..</h1>
+    <h1 className='random'>Random Password Generator..</h1>
     <hr />
       <h2>Password Generator</h2>
       <div className="options">
